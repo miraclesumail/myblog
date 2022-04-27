@@ -1,14 +1,14 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](/)
+* [HOME](/myblog)
 
-* [Tutorials](/tutorials/index)
-  * [Tomcat](/tutorials/tomcat/index)
-  * [Cloud](/tutorials/cloud/index)
-  * [Java](/tutorials/java/index)
+* [Tutorials](/myblog/tutorials/index)
+  * [Tomcat](/myblog/tutorials/tomcat/index)
+  * [Cloud](/myblog/tutorials/cloud/index)
+  * [Java](/myblog/tutorials/java/index)
 
-* [About](/about/index)
+* [About](/myblog/about/index)
 
-* [Contact](/contact/index)
+* [Contact](/myblog/contact/index)
 
